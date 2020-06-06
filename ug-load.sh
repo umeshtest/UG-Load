@@ -1,5 +1,5 @@
-#!Script  author N117R0
-#By noob hackers
+#!Script  author Mr.Umesh Hacker
+#By Umesh Gangurde 
 #Be a creative person not copy paster
 
 ###################################
@@ -25,11 +25,11 @@ echo -e "\e[1m\e[31m\
               ██║█████╗██║     ██║   ██║███████║██║  ██║
               ██║╚════╝██║     ██║   ██║██╔══██║██║  ██║
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
-              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
+              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1" (UG-Load)
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mUmeshgang \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31minstagram:id @umesh_g96e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
@@ -45,7 +45,7 @@ cd $HOME
 
 ls 
 
-cd T-LOAD
+cd ug-load
 
 ls
 
@@ -57,7 +57,7 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd ug-load
 
 ls
 
