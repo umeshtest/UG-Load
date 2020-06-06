@@ -1,5 +1,5 @@
-#!Script  author N117R0
-#By noob hackers
+#!Script  author Umesh Gangurde 
+#By Umeshgang
 #Be a creative person not copy paster
 
 ###################################
@@ -25,16 +25,16 @@ echo -e "\e[1m\e[31m\
               ██║█████╗██║     ██║   ██║███████║██║  ██║
               ██║╚════╝██║     ██║   ██║██╔══██║██║  ██║ reverter {66}
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
-              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
+              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"(UG-Load)
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mMr.Umesh Hacker \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31minstagram:@UMESH_G96\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 echo "                           rverting wait for 10s please"
 cd $HOME
-cd T-LOAD
+cd ug-load
 cd revert 
 mv bash.bashrc $HOME 
 cd  /data/data/com.termux/files/usr/etc
