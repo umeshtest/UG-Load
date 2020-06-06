@@ -3,7 +3,7 @@
       New advanced terminal for Termux users with simple steps
 </p>
 
-## About T-LOAD :
+## About T-LOAD(UG-Load) :
 
 T-LOAD is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -30,19 +30,19 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/noob-hackers/T-LOAD
+$ git clone https://github.com/umeshtest/UG-Load
 ```
 ```
 $ ls
 ```
 ```
-$ cd T-LOAD
+$ cd ug-load
 ```
 ```
 $ ls
 ```
 ```
-$ bash t-load.sh
+$ bash ug-load.sh
 ```
 ```
 * Now make sue that you internet connection is on and after that the installation starts automatically
@@ -63,7 +63,7 @@ Note:- Don't delete any of the audio files from your sdcard/internal storage or 
 To revert/to get back into normal termux mode use this commands
 ```
 ```
-cd T-LOAD
+cd ug-load
 ```
 ls
 ```
@@ -71,11 +71,6 @@ bash rvt.sh
 ```
 ```
 
-### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
-
-### Chekout our webite 
-https://www.noob-hackers.com
      
 ### Warning
 
